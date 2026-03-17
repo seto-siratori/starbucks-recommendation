@@ -1,0 +1,14 @@
+{
+  "id": "shiratoriseto/starbucks-synthetic-data-validation",
+  "title": "Starbucks Synthetic Data Validation & Stress Test",
+  "code_file": "06_validation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "shiratoriseto/starbucks-recommendation-engine"
+  ],
+  "keywords": ["recommender-systems", "data-visualization", "feature-engineering"]
+}

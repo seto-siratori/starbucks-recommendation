@@ -1,0 +1,243 @@
+product_name,category,size,price_usd,calories,sugar_g,caffeine_mg,seasonal_flag
+Brewed Coffee,Coffee,Short,2.03,3,0,175.0,1
+Brewed Coffee,Coffee,Tall,2.18,4,0,260.0,0
+Brewed Coffee,Coffee,Grande,2.55,5,0,330.0,0
+Brewed Coffee,Coffee,Venti,2.92,5,0,410.0,0
+Caffè Latte,Classic Espresso Drinks,Short,3.36,70,9,75.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,4.21,100,9,75.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,4.49,70,4,75.0,0
+Caffè Latte,Classic Espresso Drinks,Tall,3.94,100,14,75.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,4.18,150,14,75.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,4.33,110,6,75.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,4.18,130,18,150.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,4.18,190,17,150.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,4.29,150,8,150.0,0
+Caffè Latte,Classic Espresso Drinks,Venti,4.39,170,23,150.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,3.99,240,22,150.0,0
+Caffè Latte,Classic Espresso Drinks,Grande,4.17,190,11,150.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Short,3.25,110,17,85.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.3,130,17,85.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.11,110,13,85.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Tall,3.61,170,27,95.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.47,200,26,95.0,1
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.22,180,20,95.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.26,220,34,175.0,1
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.04,260,34,175.0,1
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.17,230,26,175.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Venti,4.69,280,44,180.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.08,340,43,180.0,0
+Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande,4.31,290,33,180.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Short,3.31,100,18,75.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.21,130,17,75.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.16,110,13,75.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Tall,4.1,150,27,75.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.25,200,27,75.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.09,160,20,75.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.37,200,35,150.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.07,250,35,150.0,1
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.28,210,26,150.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Venti,4.38,250,45,150.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.05,320,44,150.0,0
+Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande,4.28,270,33,150.0,0
+Caffè Americano,Classic Espresso Drinks,Short,3.51,5,0,75.0,0
+Caffè Americano,Classic Espresso Drinks,Tall,3.85,10,0,150.0,0
+Caffè Americano,Classic Espresso Drinks,Grande,4.23,15,0,225.0,0
+Caffè Americano,Classic Espresso Drinks,Venti,4.63,25,0,300.0,0
+Cappuccino,Classic Espresso Drinks,Short,3.18,50,7,75.0,1
+Cappuccino,Classic Espresso Drinks,Grande,4.14,80,7,75.0,0
+Cappuccino,Classic Espresso Drinks,Grande,4.18,50,3,75.0,0
+Cappuccino,Classic Espresso Drinks,Tall,3.98,60,8,75.0,0
+Cappuccino,Classic Espresso Drinks,Grande,4.3,90,8,75.0,0
+Cappuccino,Classic Espresso Drinks,Grande,3.99,70,4,75.0,0
+Cappuccino,Classic Espresso Drinks,Grande,4.3,80,10,150.0,0
+Cappuccino,Classic Espresso Drinks,Grande,4.19,120,10,150.0,0
+Cappuccino,Classic Espresso Drinks,Grande,4.15,100,5,150.0,0
+Cappuccino,Classic Espresso Drinks,Venti,4.77,110,14,150.0,0
+Cappuccino,Classic Espresso Drinks,Grande,4.4,150,14,150.0,0
+Cappuccino,Classic Espresso Drinks,Grande,4.39,120,7,150.0,0
+Espresso,Classic Espresso Drinks,Grande,4.12,5,0,75.0,0
+Espresso,Classic Espresso Drinks,Grande,4.2,10,0,150.0,0
+Skinny Latte (Any Flavour),Classic Espresso Drinks,Short,3.45,60,8,75.0,0
+Skinny Latte (Any Flavour),Classic Espresso Drinks,Tall,3.97,100,13,75.0,1
+Skinny Latte (Any Flavour),Classic Espresso Drinks,Grande,4.18,120,16,150.0,0
+Skinny Latte (Any Flavour),Classic Espresso Drinks,Venti,4.65,160,21,150.0,0
+Caramel Macchiato,Signature Espresso Drinks,Short,3.95,100,15,75.0,0
+Caramel Macchiato,Signature Espresso Drinks,Grande,4.97,120,15,75.0,0
+Caramel Macchiato,Signature Espresso Drinks,Grande,5.27,100,11,75.0,0
+Caramel Macchiato,Signature Espresso Drinks,Tall,4.84,140,24,75.0,1
+Caramel Macchiato,Signature Espresso Drinks,Grande,5.14,180,23,75.0,0
+Caramel Macchiato,Signature Espresso Drinks,Grande,5.3,150,17,75.0,0
+Caramel Macchiato,Signature Espresso Drinks,Grande,5.2,190,32,150.0,0
+Caramel Macchiato,Signature Espresso Drinks,Grande,5.05,240,32,150.0,0
+Caramel Macchiato,Signature Espresso Drinks,Grande,5.2,200,24,150.0,0
+Caramel Macchiato,Signature Espresso Drinks,Venti,5.9,240,41,150.0,0
+Caramel Macchiato,Signature Espresso Drinks,Grande,5.14,300,40,150.0,0
+Caramel Macchiato,Signature Espresso Drinks,Grande,5.38,250,31,150.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Short,3.73,180,29,75.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,5.27,200,29,75.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,5.16,180,25,75.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Tall,4.59,270,45,75.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,5.16,310,44,75.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,4.85,280,39,75.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,5.12,350,58,150.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,5.2,400,58,150.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,5.37,370,51,150.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Venti,5.59,450,74,150.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,5.03,510,74,150.0,0
+White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande,5.07,460,64,150.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Short,4.26,130,23,10.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.2,150,22,10.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.07,130,18,10.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Tall,4.71,190,32,20.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.16,230,32,20.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.3,200,25,20.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.04,240,41,25.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.1,290,41,25.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.09,250,32,25.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Venti,5.45,320,55,30.0,1
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.19,380,54,30.0,0
+Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande,5.19,330,44,30.0,0
+Caramel Apple Spice (Without Whipped Cream),Signature Espresso Drinks,Short,4.12,140,33,0.0,0
+Caramel Apple Spice (Without Whipped Cream),Signature Espresso Drinks,Tall,4.6,210,49,0.0,0
+Caramel Apple Spice (Without Whipped Cream),Signature Espresso Drinks,Grande,4.94,280,65,0.0,0
+Caramel Apple Spice (Without Whipped Cream),Signature Espresso Drinks,Venti,5.6,360,83,0.0,0
+Tazo® Tea,Tazo® Tea Drinks,Short,2.95,0,0,,0
+Tazo® Tea,Tazo® Tea Drinks,Tall,3.25,0,0,,0
+Tazo® Tea,Tazo® Tea Drinks,Grande,3.73,0,0,,0
+Tazo® Tea,Tazo® Tea Drinks,Venti,4.19,0,0,,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Short,3.28,100,21,50.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,3.78,120,21,50.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,3.79,110,18,50.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Tall,3.36,160,32,70.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,3.46,190,32,70.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,3.75,160,28,70.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,3.76,210,43,95.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,4.12,240,42,95.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,3.72,220,37,95.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Venti,4.17,260,54,120.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,3.74,310,53,120.0,0
+Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande,3.57,280,46,120.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Short,3.17,130,25,25.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,3.86,170,25,25.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,3.87,140,20,25.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Tall,3.24,210,41,55.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,3.96,260,40,55.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,3.54,230,33,55.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,3.84,290,56,80.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,4.08,350,55,80.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,3.6,310,46,80.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Venti,4.04,370,71,110.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,3.76,450,71,110.0,0
+Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande,3.67,390,58,110.0,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Short,2.77,80,16,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.76,90,15,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.59,80,13,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Tall,3.45,120,23,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.61,140,23,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.98,130,19,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.63,150,31,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.7,190,30,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.87,170,25,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Venti,3.94,190,39,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.78,230,38,,0
+Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande,3.95,210,32,,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Short,2.76,80,16,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.78,90,15,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.79,80,13,0.0,1
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Tall,3.49,120,23,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.56,140,23,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.55,130,19,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.83,150,31,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.79,190,30,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.79,170,25,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Venti,4.18,190,39,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.65,230,38,0.0,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande,3.78,210,32,0.0,0
+Iced Brewed Coffee (With Classic Syrup),Shaken Iced Beverages,Tall,4.05,60,15,120.0,0
+Iced Brewed Coffee (With Classic Syrup),Shaken Iced Beverages,Grande,4.34,90,21,165.0,0
+Iced Brewed Coffee (With Classic Syrup),Shaken Iced Beverages,Venti,5.17,130,31,235.0,0
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Tall,4.08,80,18,90.0,0
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Grande,4.27,90,18,,1
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Grande,4.55,80,17,90.0,0
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Grande,4.3,110,24,90.0,1
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Grande,4.57,120,24,125.0,0
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Grande,4.62,110,22,125.0,0
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Venti,4.77,160,36,125.0,0
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Grande,4.59,180,36,170.0,0
+Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Grande,4.51,170,33,170.0,0
+Shaken Iced Tazo® Tea (With Classic Syrup),Shaken Iced Beverages,Tall,4.13,60,15,170.0,0
+Shaken Iced Tazo® Tea (With Classic Syrup),Shaken Iced Beverages,Grande,4.73,80,21,,0
+Shaken Iced Tazo® Tea (With Classic Syrup),Shaken Iced Beverages,Venti,4.86,120,31,,0
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Shaken Iced Beverages,Tall,3.89,100,24,,0
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Shaken Iced Beverages,Grande,4.32,130,33,,0
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Shaken Iced Beverages,Venti,4.77,190,49,,0
+Banana Chocolate Smoothie,Smoothies,Grande,5.24,280,34,,0
+Banana Chocolate Smoothie,Smoothies,Grande,5.3,300,34,15.0,0
+Banana Chocolate Smoothie,Smoothies,Grande,5.29,290,31,15.0,1
+Orange Mango Banana Smoothie,Smoothies,Grande,5.37,260,37,15.0,0
+Orange Mango Banana Smoothie,Smoothies,Grande,5.25,270,37,0.0,0
+Orange Mango Banana Smoothie,Smoothies,Grande,5.47,270,36,0.0,0
+Strawberry Banana Smoothie,Smoothies,Grande,5.21,290,41,0.0,0
+Strawberry Banana Smoothie,Smoothies,Grande,5.66,290,41,0.0,0
+Strawberry Banana Smoothie,Smoothies,Grande,5.34,290,40,0.0,0
+Coffee,Frappuccino® Blended Coffee,Tall,4.33,160,36,0.0,0
+Coffee,Frappuccino® Blended Coffee,Grande,4.79,180,36,70.0,0
+Coffee,Frappuccino® Blended Coffee,Grande,5.02,160,34,70.0,0
+Coffee,Frappuccino® Blended Coffee,Grande,4.92,220,50,70.0,0
+Coffee,Frappuccino® Blended Coffee,Grande,5.06,240,50,95.0,1
+Coffee,Frappuccino® Blended Coffee,Grande,5.02,220,47,95.0,0
+Coffee,Frappuccino® Blended Coffee,Venti,5.43,310,69,95.0,0
+Coffee,Frappuccino® Blended Coffee,Grande,4.82,350,69,130.0,0
+Coffee,Frappuccino® Blended Coffee,Grande,4.72,310,66,130.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Tall,4.39,180,40,130.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.08,200,40,70.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,4.98,180,38,70.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,4.76,260,58,110.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,4.98,290,58,110.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.01,260,55,110.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Venti,5.31,340,76,140.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,4.97,390,76,140.0,0
+Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,4.96,350,73,140.0,0
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Tall,4.28,180,41,70.0,0
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.0,200,41,70.0,0
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.03,180,39,70.0,0
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.11,280,59,100.0,1
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.11,280,59,100.0,1
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,4.74,260,56,100.0,0
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Venti,5.3,330,77,130.0,0
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.03,370,77,130.0,0
+Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.03,340,73,130.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Tall,4.53,220,44,75.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.53,240,44,75.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.04,220,42,75.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.12,310,62,110.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.09,340,62,110.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.05,310,60,110.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Venti,5.4,420,84,145.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,5.06,460,84,145.0,0
+Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Grande,4.83,430,80,145.0,1
+Coffee,Frappuccino® Light Blended Coffee,Tall,4.24,90,19,70.0,0
+Coffee,Frappuccino® Light Blended Coffee,Grande,4.68,120,26,95.0,0
+Coffee,Frappuccino® Light Blended Coffee,Venti,5.24,160,33,120.0,0
+Mocha,Frappuccino® Light Blended Coffee,Tall,4.62,110,23,70.0,0
+Mocha,Frappuccino® Light Blended Coffee,Grande,4.47,150,30,95.0,0
+Mocha,Frappuccino® Light Blended Coffee,Venti,5.33,210,42,130.0,0
+Caramel,Frappuccino® Light Blended Coffee,Tall,4.03,100,23,65.0,0
+Caramel,Frappuccino® Light Blended Coffee,Grande,4.68,150,32,90.0,0
+Caramel,Frappuccino® Light Blended Coffee,Venti,5.39,200,43,120.0,0
+Java Chip,Frappuccino® Light Blended Coffee,Tall,4.28,150,27,70.0,0
+Java Chip,Frappuccino® Light Blended Coffee,Grande,4.59,220,39,105.0,1
+Java Chip,Frappuccino® Light Blended Coffee,Venti,5.12,290,52,165.0,0
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Tall,4.56,170,38,0.0,0
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Grande,4.84,190,37,0.0,0
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Grande,4.98,170,35,0.0,0
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Grande,4.96,230,52,0.0,0
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Grande,4.85,260,52,0.0,0
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Grande,5.27,240,49,0.0,1
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Venti,5.54,310,69,0.0,0
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Grande,4.65,350,68,0.0,0
+Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Grande,4.98,320,64,0.0,0
+Vanilla Bean (Without Whipped Cream),Frappuccino® Blended Crème,Tall,4.36,170,38,0.0,0
+Vanilla Bean (Without Whipped Cream),Frappuccino® Blended Crème,Grande,5.08,200,38,0.0,0
+Vanilla Bean (Without Whipped Cream),Frappuccino® Blended Crème,Grande,4.83,180,35,0.0,0
+Vanilla Bean (Without Whipped Cream),Frappuccino® Blended Crème,Grande,4.93,240,55,0.0,0

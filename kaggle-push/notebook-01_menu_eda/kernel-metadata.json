@@ -1,0 +1,14 @@
+{
+  "id": "shiratoriseto/starbucks-menu-eda-nutrition-pricing",
+  "title": "Starbucks Menu EDA: Nutrition & Pricing Analysis",
+  "code_file": "01_menu_eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "shiratoriseto/starbucks-recommendation-engine"
+  ],
+  "keywords": ["recommender-systems", "data-visualization", "feature-engineering"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shiratoriseto/starbucks-personalized-recommendation",
+  "title": "Starbucks Personalized Recommendation Engine",
+  "code_file": "05_recommendation_engine.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "shiratoriseto/starbucks-recommendation-engine"
+  ],
+  "keywords": ["recommender-systems", "data-visualization", "feature-engineering"]
+}

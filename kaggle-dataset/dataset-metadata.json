@@ -1,0 +1,90 @@
+{
+  "title": "Starbucks Recommendation Engine Data",
+  "subtitle": "Menu, macro indicators, weather & 100K synthetic transactions",
+  "description": "## What's inside\n\nFour analysis-ready files for building a Starbucks personalized recommendation engine:\n\n1. **starbucks_menu.csv** — 242 Starbucks US menu items with nutrition and pricing\n2. **fred_macro.csv** — CPI, average hourly earnings, and real wage index (monthly, 2021-2026)\n3. **weather_daily.csv** — Daily temperatures for 5 US cities (2024-2026)\n4. **synthetic_transactions.csv** — 100,000 synthetic purchase transactions constrained by real data\n\n## Synthetic Data Transparency\n\nThe transaction data is **synthetic** — generated from probability distributions anchored to real-world constraints:\n\n| Component | Source | Status |\n|---|---|---|\n| Menu items & nutrition | Starbucks published data | **Real** |\n| Prices | Starbucks menu + estimation | **Semi-real** |\n| CPI & wages | FRED (Federal Reserve) | **Real** |\n| Weather | Open-Meteo historical API | **Real** |\n| Purchase patterns | Industry reports + assumptions | **Synthetic** |\n| Individual transactions | Generated from distributions | **Synthetic** |\n\nEvery assumption is documented in the generation notebook. See Notebook 3 for the full generation pipeline and Notebook 6 for validation.\n\n## Use cases\n\n- Content-based recommendation systems\n- Product design optimization\n- Price elasticity analysis\n- Customer segmentation\n- Seasonal demand modeling\n- Synthetic data generation methodology\n\n## Data sources & licenses\n\n| File | Source | License |\n|---|---|---|\n| Menu nutrition | Starbucks / Kaggle public datasets | Public |\n| CPI & Wages | FRED (Federal Reserve) | Public domain |\n| Weather | Open-Meteo API | CC-BY 4.0 |\n| Transactions | Synthetic (this project) | ODbL 1.0 |\n\n## Related notebooks (6-notebook series)\n\n| # | Notebook | Description |\n|---|----------|-------------|\n| 1 | Menu EDA | Category distribution, price/calorie analysis |\n| 2 | Macro Elasticity | CPI trends, wage analysis, price sensitivity |\n| 3 | Synthetic Data Generation | 100K transaction generation with real constraints |\n| 4 | New Product Optimizer | Frappuccino design optimization algorithm |\n| 5 | Recommendation Engine | Personalized drink + customization recommendations |\n| 6 | Validation | Benchmark comparison, perturbation tests, stability |",
+  "id": "shiratoriseto/starbucks-recommendation-engine",
+  "licenses": [
+    {
+      "name": "ODbL-1.0",
+      "nameNice": "Open Data Commons Open Database License (ODbL) v1.0"
+    }
+  ],
+  "keywords": [
+    "restaurants",
+    "exploratory data analysis",
+    "recommender systems",
+    "data visualization",
+    "feature engineering"
+  ],
+  "resources": [
+    {
+      "path": "starbucks_menu.csv",
+      "description": "242 Starbucks US menu items with nutrition and pricing",
+      "schema": {
+        "fields": [
+          {"name": "product_name", "type": "string", "description": "Product name"},
+          {"name": "category", "type": "string", "description": "Menu category (9 categories)"},
+          {"name": "size", "type": "string", "description": "Cup size (Short/Tall/Grande/Venti)"},
+          {"name": "price_usd", "type": "number", "description": "Price in USD"},
+          {"name": "calories", "type": "integer", "description": "Calories per serving"},
+          {"name": "sugar_g", "type": "number", "description": "Sugar in grams"},
+          {"name": "caffeine_mg", "type": "number", "description": "Caffeine in milligrams"},
+          {"name": "seasonal_flag", "type": "integer", "description": "1 if seasonal/limited-time item, 0 otherwise"}
+        ]
+      }
+    },
+    {
+      "path": "fred_macro.csv",
+      "description": "Monthly CPI, average hourly earnings, and real wage index from FRED (2021-2026)",
+      "schema": {
+        "fields": [
+          {"name": "date", "type": "string", "description": "First day of month (YYYY-MM-DD)"},
+          {"name": "cpi", "type": "number", "description": "Consumer Price Index (all urban consumers)"},
+          {"name": "avg_hourly_earnings", "type": "number", "description": "Average hourly earnings (USD)"},
+          {"name": "real_wage_index", "type": "number", "description": "Real wage index (earnings/CPI × 100)"}
+        ]
+      }
+    },
+    {
+      "path": "weather_daily.csv",
+      "description": "Daily temperature data for 5 US cities from Open-Meteo (2024-2026)",
+      "schema": {
+        "fields": [
+          {"name": "date", "type": "string", "description": "Date (YYYY-MM-DD)"},
+          {"name": "temp_mean_f", "type": "number", "description": "Mean daily temperature (°F)"},
+          {"name": "temp_max_f", "type": "number", "description": "Maximum daily temperature (°F)"},
+          {"name": "temp_min_f", "type": "number", "description": "Minimum daily temperature (°F)"},
+          {"name": "city", "type": "string", "description": "City name (New York, Chicago, Los Angeles, Seattle, Houston)"}
+        ]
+      }
+    },
+    {
+      "path": "synthetic_transactions.csv",
+      "description": "100,000 synthetic purchase transactions constrained by real menu/CPI/weather data",
+      "schema": {
+        "fields": [
+          {"name": "transaction_id", "type": "string", "description": "Unique transaction ID (TXN-XXXXXX)"},
+          {"name": "date", "type": "string", "description": "Transaction date (YYYY-MM-DD)"},
+          {"name": "hour", "type": "integer", "description": "Hour of day (5-20)"},
+          {"name": "time_slot", "type": "string", "description": "Time period (early_morning/morning_rush/late_morning/lunch/afternoon/evening)"},
+          {"name": "city", "type": "string", "description": "City of purchase"},
+          {"name": "persona", "type": "string", "description": "Customer persona (morning_commuter/afternoon_treat/health_conscious/student/weekend_explorer)"},
+          {"name": "is_weekend", "type": "integer", "description": "1 if Saturday/Sunday, 0 otherwise"},
+          {"name": "temp_f", "type": "number", "description": "Actual temperature at time of purchase (°F, from real weather data)"},
+          {"name": "cpi", "type": "number", "description": "CPI at time of purchase (from real FRED data)"},
+          {"name": "category", "type": "string", "description": "Menu category of purchased item"},
+          {"name": "product_name", "type": "string", "description": "Product name"},
+          {"name": "size", "type": "string", "description": "Cup size"},
+          {"name": "base_price", "type": "number", "description": "Base menu price (USD)"},
+          {"name": "customizations", "type": "string", "description": "Pipe-separated customization names, or 'none'"},
+          {"name": "n_customizations", "type": "integer", "description": "Number of customizations added"},
+          {"name": "upcharge", "type": "number", "description": "Total customization upcharge (USD)"},
+          {"name": "total_price", "type": "number", "description": "Final price: (base + upcharge) × CPI scaling"},
+          {"name": "calories", "type": "integer", "description": "Calories of the base product"},
+          {"name": "sugar_g", "type": "number", "description": "Sugar content (grams)"},
+          {"name": "caffeine_mg", "type": "number", "description": "Caffeine content (milligrams)"}
+        ]
+      }
+    }
+  ]
+}

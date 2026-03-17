@@ -1,0 +1,14 @@
+{
+  "id": "shiratoriseto/starbucks-macro-elasticity-cpi-wage",
+  "title": "Starbucks Macro Elasticity: CPI & Wage Analysis",
+  "code_file": "02_macro_elasticity.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "shiratoriseto/starbucks-recommendation-engine"
+  ],
+  "keywords": ["recommender-systems", "data-visualization", "feature-engineering"]
+}
