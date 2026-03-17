@@ -1,5 +1,5 @@
 {
-  "id": "shiratoriseto/starbucks-new-frappuccino-optimizer",
+  "id": "shiratoriseto/starbucks-new-frappuccino-design-optimizer",
   "title": "Starbucks New Frappuccino Design Optimizer",
   "code_file": "04_new_product_optimizer.ipynb",
   "language": "python",
@@ -10,5 +10,9 @@
   "dataset_sources": [
     "shiratoriseto/starbucks-recommendation-engine"
   ],
-  "keywords": ["recommender-systems", "data-visualization", "feature-engineering"]
+  "keywords": [
+    "recommender-systems",
+    "data-visualization",
+    "feature-engineering"
+  ]
 }

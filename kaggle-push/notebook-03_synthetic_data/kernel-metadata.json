@@ -1,5 +1,5 @@
 {
-  "id": "shiratoriseto/starbucks-synthetic-purchase-data",
+  "id": "shiratoriseto/starbucks-synthetic-purchase-data-generation",
   "title": "Starbucks Synthetic Purchase Data Generation",
   "code_file": "03_synthetic_data.ipynb",
   "language": "python",
@@ -10,5 +10,9 @@
   "dataset_sources": [
     "shiratoriseto/starbucks-recommendation-engine"
   ],
-  "keywords": ["recommender-systems", "data-visualization", "feature-engineering"]
+  "keywords": [
+    "recommender-systems",
+    "data-visualization",
+    "feature-engineering"
+  ]
 }
