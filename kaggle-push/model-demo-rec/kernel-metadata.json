@@ -1,0 +1,16 @@
+{
+  "id": "shiratoriseto/rec-engine-model-demo-v1",
+  "title": "Rec Engine Model Demo V1",
+  "code_file": "model_demo_recommendation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "model_sources": [
+    "shiratoriseto/starbucks-recommendation-engine-model/other/default/1"
+  ],
+  "keywords": [
+    "recommender-systems"
+  ]
+}
