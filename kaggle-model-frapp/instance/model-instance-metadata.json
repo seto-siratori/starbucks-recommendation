@@ -1,0 +1,9 @@
+{
+  "ownerSlug": "shiratoriseto",
+  "modelSlug": "starbucks-frappuccino-optimizer",
+  "framework": "other",
+  "instanceSlug": "default",
+  "licenseName": "Apache 2.0",
+  "fineTunable": false,
+  "overview": "Constrained optimization for new Frappuccino product attributes"
+}
