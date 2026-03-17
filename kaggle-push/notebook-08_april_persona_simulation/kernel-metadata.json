@@ -1,0 +1,12 @@
+{
+  "id": "shiratoriseto/starbucks-april-persona-simulation",
+  "title": "Starbucks April Persona Recommendation Simulation",
+  "code_file": "08_april_persona_simulation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["shiratoriseto/starbucks-recommendation-engine"],
+  "keywords": ["recommender-systems", "data-visualization", "feature-engineering"]
+}

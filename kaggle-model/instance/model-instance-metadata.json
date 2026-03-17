@@ -1,0 +1,9 @@
+{
+  "ownerSlug": "shiratoriseto",
+  "modelSlug": "starbucks-recommendation-engine-model",
+  "framework": "other",
+  "instanceSlug": "default",
+  "licenseName": "Apache 2.0",
+  "fineTunable": false,
+  "overview": "Content-based recommendation engine with product optimizer and customization suggestions"
+}
